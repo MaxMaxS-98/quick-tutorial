@@ -58,3 +58,5 @@ Look-ahead and look-behind are used to match a string without including it in th
 ## Author
 
 This tutorial is written by Max Sciuclin.
+
+GitHub: https://github.com/MaxMaxS-98/quick-tutorial/blob/main/gist-template.md
